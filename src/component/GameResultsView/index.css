@@ -1,0 +1,16 @@
+.result-button {
+  width: 100px;
+  height: 40px;
+  padding: 10px;
+  color: #223a5f;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border-style: none;
+  cursor: pointer;
+  outline: none;
+}
